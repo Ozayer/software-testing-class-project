@@ -170,4 +170,4 @@ Removing this license file directly violates terms and conditions of the softwar
 
 ---
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
